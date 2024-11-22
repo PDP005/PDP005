@@ -1,5 +1,5 @@
 ## Hi there 👋
-Developer in : **C++**, **Angular**, **Python**, **JavaScript**, **HTML**, **CSS**, **.NET**, and **Java**. 
+Developer in : **C++**, **C#** , **TypeSrypt** , **Angular**, **Python**, **JavaScript**, **HTML**, **CSS**, **.NET**, and **Java**. 
 
 
 <!--
